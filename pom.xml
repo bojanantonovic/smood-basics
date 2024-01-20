@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ch.antonovic</groupId>
 	<artifactId>smood-basics</artifactId>
-	<version>0.1.2-SNAPSHOT</version>
+	<version>0.1.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<url>https://github.com/bojanantonovic/smood-basics</url>
 	<properties>
@@ -56,7 +56,7 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/bojanantonovic</url>
+			<url>https://maven.pkg.github.com/bojanantonovic/smood-basics</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
